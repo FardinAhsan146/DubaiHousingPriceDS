@@ -12,5 +12,7 @@ Project timeline.
 
 3) Feature Engineering: [View](https://github.com/FardinAhsan146/DubaiHousingPriceDS/blob/main/featureengineering_nb2.ipynb)
 
-4) Machine Learning: Coming soon 
+4) Machine Learning: [View](https://github.com/FardinAhsan146/DubaiHousingPriceDS/blob/main/xgbmodel_nb3.ipynb)
+
+5) Deep Learning: [View](https://github.com/FardinAhsan146/DubaiHousingPriceDS/blob/main/dnnmodel_nb3.ipynb)
 
