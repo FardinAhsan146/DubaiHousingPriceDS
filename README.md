@@ -16,4 +16,4 @@ Project timeline.
 
 5) Deep Learning: [View](https://github.com/FardinAhsan146/DubaiHousingPriceDS/blob/main/dnnmodel_nb3.ipynb)
 
-Note: "Accuracy" as a regression metric was 1 - MAPE/100, the implementation is incomplete as no timeseries data was used. 
+Note: "Accuracy" as a regression metric was 1 - MAPE/100, the implementation is incomplete as no timeseries data was used. Ignore that metric. 
